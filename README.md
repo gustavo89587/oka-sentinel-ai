@@ -14,7 +14,7 @@
 </div>
 
 ## ✨ Pitch (15s)
-Plataforma open‑source que combina **ML clássico** + **LLM (opcional)** para detectar **phishing** (texto, e‑mail, URL e imagem de página), classificar **URLs maliciosas** e sinalizar **anomalias** — com **explainability (SHAP)**, **dashboard** e **pipeline MLOps**. Feita para portfólio, pronta para demo e post no LinkedIn.
+Plataforma open‑source que combina **ML clássico** + **LLM (opcional)** para detectar **phishing** (texto, e‑mail, URL e imagem de página), classificar **URLs maliciosas** e sinalizar **anomalias** — com **explainability (SHAP)**, **dashboard** e **pipeline MLOps**. 
 
 ---
 
