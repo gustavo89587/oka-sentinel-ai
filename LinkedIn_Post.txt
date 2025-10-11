@@ -1,0 +1,11 @@
+HOOK: “Clique errado, empresa fora do ar.”
+
+Hoje eu libero o Okamoto Security Labs: um projeto de IA + ML para detectar phishing/URLs maliciosas — com explainability (SHAP), dashboard e pipeline MLOps. Feito do zero para portfólio e pronto para demo.
+
+Prova em 8s: colo uma URL → probabilidade + explicação do porquê. Transparente, rápido e útil para o dia a dia do time de segurança.
+
+Quer ver rodando? Código aberto nos comentários.
+Se curtir, me segue e marca alguém do seu time. 🤝
+
+Autor: Gustavo Okamoto de Carvalho · LinkedIn: https://www.linkedin.com/in/gustavo-okamoto-de-carvalho-ti · GitHub: https://github.com/gustavo89587
+#Cybersecurity #MachineLearning #MLOps #Phishing #Python
