@@ -3,6 +3,13 @@
 # 🛡️ Oka Sentinel AI  
 **Detecção de Phishing & URLs Maliciosas com ML + Explainability + MLOps**
 
+## Direitos Autorais e Licença
+
+Este projeto é protegido por direitos autorais ©Okamoto Security Labs, 2025.  
+
+Qualquer uso não autorizado, reprodução ou distribuição é estritamente proibido.
+
+
 [![CI](https://img.shields.io/github/actions/workflow/status/gustavo89587/oka-sentinel-ai/ci.yml?label=CI&logo=github)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Python-3.11-blue.svg)](#)
